@@ -1,0 +1,2 @@
+ddl , dml , dcl, dql,tcl,
+explain this .
